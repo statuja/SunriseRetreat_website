@@ -40,14 +40,6 @@ cd sunriseRetreat_website
 # Install dependencies
 npm install
 
-# DCI Boilerplate sass + parcel
-
-An HTML CSS boilerplate with built-in sass support:
-
-- Development server powered by [parcel](https://parceljs.org/) with sass compilation and auto-reload.
-- Deployments to github pages with [gh-pages](https://www.npmjs.com/package/gh-pages)
-
-
 # Production
 
 Compile source code from **src** and create an optimized production bundle in **dist** folder ready for **deployment**.
@@ -56,7 +48,7 @@ Compile source code from **src** and create an optimized production bundle in **
 npm run build
 ```
 
-### Deploy to Github Pages
+# Deploy to Github Pages
 
 Deploy your code to **Github Pages**: this script creates a 'gh-pages' branch and publishes the **dist** folder. For this to work, make sure you already have a remote repository on github.
 
@@ -64,7 +56,7 @@ Deploy your code to **Github Pages**: this script creates a 'gh-pages' branch an
 npm run publish
 ```
 
-## Project Structure
+### Project Structure
 
 Any project created with this boilerplate will follow the structure below:
 
