@@ -1,5 +1,3 @@
-# Sunrise Retreat
-
 ![logo](src/images/project-2.png)
 
 ## Overview
