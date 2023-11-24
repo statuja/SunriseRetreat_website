@@ -1,4 +1,5 @@
 # Sunrise Retreat
+
 ![logo](src/images/project-2.png)
 
 The Sunrise Retreat website is our team's first joint project, developed by three junior developers during our DCI Further Training for Web & Software Development.
