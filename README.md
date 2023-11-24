@@ -1,4 +1,5 @@
 # Sunrise Retreat
+![logo](src/images/project-2.png)
 
 The Sunrise Retreat website is our team's first joint project, developed by three junior developers during our DCI Further Training for Web & Software Development.
 
@@ -24,9 +25,13 @@ These CSS features collaboratively contribute to a visually appealing, responsiv
 - [Sass](https://sass-lang.com/)
 - [Bootstrap](https://getbootstrap.com/)
 
-## Getting Started
+![home](src/images/screenshot.png)
 
-### Installation
+## Demo
+
+[Live Demo](https://statuja.github.io/my-norway/)
+
+## Useful commands
 
 #### Clone the repository
 ```
@@ -63,5 +68,6 @@ Project
 |   └───images
 └───dist
 ```
+
 
 
