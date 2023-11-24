@@ -29,8 +29,9 @@ These CSS features collaboratively contribute to a visually appealing, responsiv
 ### Installation
 
 # Clone the repository
+```
 git clone [https://github.com/your-username/Villa-design.git](https://github.com/statuja/sunriseRetreat_website.git)
-
+```
 # Navigate to the project folder
 cd sunriseRetreat_website
 
@@ -47,6 +48,7 @@ npm run publish
 
 
 ### Project Structure
+```
 Project
 │   README.md
 │   package.json
@@ -56,5 +58,6 @@ Project
 │   |   sassy-css.scss
 |   └───images
 └───dist
+```
 
 
