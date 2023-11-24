@@ -2,8 +2,6 @@
 
 ![logo](src/images/project-2.png)
 
-The Sunrise Retreat website is our team's first joint project, developed by three junior developers during our DCI Further Training for Web & Software Development.
-
 ## Overview
 
 This project showcases our skills in CSS/SASS/Bootstra. Beyond improving our technical skills, it has provided a platform for us to work cohesively as a team, refine our soft skills, and seamlessly collaborate using GitHub. 
