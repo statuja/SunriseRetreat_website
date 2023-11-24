@@ -36,24 +36,20 @@ git clone [https://github.com/your-username/Villa-design.git](https://github.com
 ```
 cd sunriseRetreat_website
 ```
-
 #### Install dependencies
 ```
 npm install
 ```
-
 #### Production
 Compile source code from **src** and create an optimized production bundle in **dist** folder ready for **deployment**.
 ```
 npm run build
 ```
-
 #### Deploy to Github Pages
 Deploy your code to **Github Pages**: this script creates a 'gh-pages' branch and publishes the **dist** folder. For this to work, make sure you already have a remote repository on github.
 ```
 npm run publish
 ```
-
 
 ### Project Structure
 ```
