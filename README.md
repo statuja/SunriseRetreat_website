@@ -41,17 +41,12 @@ npm install
 Compile source code from **src** and create an optimized production bundle in **dist** folder ready for **deployment**.
 npm run build
 
-
 # Deploy to Github Pages
 Deploy your code to **Github Pages**: this script creates a 'gh-pages' branch and publishes the **dist** folder. For this to work, make sure you already have a remote repository on github.
 npm run publish
 
 
 ### Project Structure
-
-Any project created with this boilerplate will follow the structure below:
-
-
 Project
 │   README.md
 │   package.json
