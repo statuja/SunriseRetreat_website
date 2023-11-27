@@ -3,7 +3,7 @@
 ## Overview 
 
 This is a group project, that showcases our skills in CSS/SASS/Bootstrap. Beyond improving our technical skills, it has provided a platform for us to work cohesively as a team, refine our soft skills, and seamlessly collaborate using GitHub. 
-We decided to create a website for a beautiful retreat in Sri Lanka, inspired by our shared love for nature and stunning images of the country.  
+We decided to create a website for a beautiful retreat place in Sri Lanka, inspired by our shared love for nature and stunning images of the country.  
 
 ## Features
 
