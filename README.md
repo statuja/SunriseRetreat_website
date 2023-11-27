@@ -1,12 +1,10 @@
 ![logo](src/images/project-2.png)
 
 ## Overview 
-
-This is a group project, that showcases our skills in CSS/SASS/Bootstrap. Beyond improving our technical skills, it has provided a platform for us to work cohesively as a team, refine our soft skills, and seamlessly collaborate using GitHub. 
+This group project showcases our skills in CSS/SASS/Bootstrap. Beyond improving our technical skills, it has provided a platform for us to work cohesively as a team, refine our soft skills, and seamlessly collaborate using GitHub. 
 We decided to create a website for a beautiful retreat place in Sri Lanka, inspired by our shared love for nature and stunning images of the country.  
 
 ## Features
-
 - Dynamic text animation
 - Specific styles for sections like .booking, .banner, .our-package, and .services.
 - Service sections feature background images with gradient overlays.
@@ -17,7 +15,6 @@ We decided to create a website for a beautiful retreat place in Sri Lanka, inspi
 These CSS features collaboratively contribute to a visually appealing, responsive, and user-friendly design for the Sunrise Retreat website.
 
 ## Technologies Used
-
 - [Parcel](https://parceljs.org/)
 - [Sass](https://sass-lang.com/)
 - [Bootstrap](https://getbootstrap.com/)
