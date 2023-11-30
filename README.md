@@ -31,7 +31,7 @@ These CSS features collaboratively contribute to a visually appealing, responsiv
 
 #### Clone the repository
 ```
-git clone [https://github.com/your-username/Villa-design.git](https://github.com/statuja/sunriseRetreat_website.git)
+git clone https://github.com/statuja/sunriseRetreat_website.git
 ```
 #### Navigate to the project folder
 ```
