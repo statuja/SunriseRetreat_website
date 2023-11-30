@@ -19,12 +19,12 @@ These CSS features collaboratively contribute to a visually appealing, responsiv
 - [Sass](https://sass-lang.com/)
 - [Bootstrap](https://getbootstrap.com/)
 
+![home](src/images/screenshot.png)
 
 ## Demo
 
 [Live Demo](https://statuja.github.io/sunriseRetreat_website/)
 
-![home](src/images/screenshot.png)
 
 ## Useful commands
 
