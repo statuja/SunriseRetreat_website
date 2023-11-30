@@ -1,6 +1,7 @@
 ![logo](src/images/project-2.png)
 
 ## Overview 
+The Sunrise Retreat website is our team's first joint project, developed by three junior developers during our DCI Further Training for Web & Software Development
 This group project showcases our skills in CSS/SASS/Bootstrap. Beyond improving our technical skills, it has provided a platform for us to work cohesively as a team, refine our soft skills, and seamlessly collaborate using GitHub. 
 We decided to create a website for a beautiful retreat place in Sri Lanka, inspired by our shared love for nature and stunning images of the country.  
 
